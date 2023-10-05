@@ -1,0 +1,28 @@
+body{
+  background-color: darkgreen;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: whitesmoke;
+  text-indent: 20px;
+}
+
+h2{
+  text-align: center;
+  color: lightgreen;
+  text-transform: initial;
+}
+
+h3{
+  text-align: center;
+  color: blueviolet;
+  text-decoration: line-through;
+}
+
+p{
+  text-align: justify;
+  color: white;
+  letter-spacing: normal;
+}

@@ -1,0 +1,33 @@
+body{
+  background-color: darkgreen;
+  background-image: url(https://10619-2.s.cdn12.com/rests/original/105_508222124.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: whitesmoke;
+  text-indent: 20px;
+  font-family: 'Segoe UI';
+}
+
+h2{
+  text-align: center;
+  color: lightgreen;
+  text-transform: initial;
+}
+
+h3{
+  text-align: center;
+  color: blueviolet;
+}
+
+p{
+  text-align: justify;
+  color: white;
+  letter-spacing: normal;
+  font-family: montserrat;
+}

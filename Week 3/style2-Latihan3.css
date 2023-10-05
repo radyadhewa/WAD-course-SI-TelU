@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  color: chartreuse;
+  font-variant: small-caps;
+  font-weight: 900;
+}
+
+h2{
+  text-align: left;
+  letter-spacing: 0.3cm;
+  color: navy;
+}
+
+h3{
+  text-align: right;
+  color: brown;
+}
+
+p{
+  text-align: center;
+  color: forestgreen;
+}
+
+body{
+  background-color: rgb(252, 241, 178);
+}

@@ -1,0 +1,14 @@
+h1{
+  color: aquamarine;
+}
+
+body{
+  background-color: black;
+}
+
+p:not(.exclude){
+  color: whitesmoke;
+  font-family: nunito;
+  text-decoration:line-through;
+  text-decoration-color: yellow;
+}
