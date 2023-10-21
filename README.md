@@ -27,3 +27,11 @@ This is my tasks files during Website and Application Development course during 
 | CSS Attributes | [HTML 4](https://github.com/radyadhewa/WAD_SI4505_Dhewa/blob/main/Week%203/w3-Latihan4.html) & [CSS 2](https://github.com/radyadhewa/WAD_SI4505_Dhewa/blob/main/Week%203/style2-Latihan3.css)]|
 | CSS Implementation(1) | [HTML 5](https://github.com/radyadhewa/WAD_SI4505_Dhewa/blob/main/Week%203/w3-Latihan5.html) & [CSS 3](https://github.com/radyadhewa/WAD_SI4505_Dhewa/blob/main/Week%203/style3-Latihan3.css)]|
 | CSS Implementation(2) | [HTML 6](https://github.com/radyadhewa/WAD_SI4505_Dhewa/blob/main/Week%203/w3-Latihan6.html) & [CSS 4](https://github.com/radyadhewa/WAD_SI4505_Dhewa/blob/main/Week%203/style4-Latihan3.css)]|
+
+## Week 5 - JS
+|About|Repo|
+|:------:|:-------:|
+| JS Button | [JS 1](https://github.com/radyadhewa/WAD-course-SI-TelU/blob/main/Week%205/js1.html) |
+| JS Change Content | [JS 2](https://github.com/radyadhewa/WAD-course-SI-TelU/blob/main/Week%205/js2.html) |
+| JS Change Styles | [JS 3](https://github.com/radyadhewa/WAD-course-SI-TelU/blob/main/Week%205/js3.html) |
+| JS Input | [JS 4](https://github.com/radyadhewa/WAD-course-SI-TelU/blob/main/Week%205/js4.html) |
