@@ -3,7 +3,7 @@
 <head>
     <title>Notification</title>
     <script>
-        alert("Pengeluaranmu berhasil tercatat!");
+        alert("Catatan Pengeluaranmu berhasil diganti!");
         window.location.href = "latihan1(index).php"; 
     </script>
 </head>
